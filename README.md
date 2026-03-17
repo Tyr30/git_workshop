@@ -47,4 +47,4 @@ To contribute to the code or contents, please fork this repository, make your su
 
 ## Contributors
 Tyrel Froese (T-Rex)
-Zach Montieth
+Ondine Pontier
