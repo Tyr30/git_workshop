@@ -7,6 +7,7 @@
 # hakai-dataset-repository-template
 
 Summary here
+Zach - here's my edits to your summary
 
 ```
 repository reference citation
