@@ -4,7 +4,7 @@
     <a href='https://hakai.org'><img height='75px' src=docs/logos/hakai-logo.png /></a>
 </div>
 
-# hakai-dataset-repository-template
+# hakai-dataset-repository-template changing this a different way
 
 Summary here
 Zach - here's my edits to your summary
