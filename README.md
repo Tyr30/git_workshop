@@ -44,3 +44,5 @@ To contribute to the code or contents, please fork this repository, make your su
 
 *This repository is generated via the [Hakai dataset repository template](https://github.com/HakaiInstitute/hakai-dataset-repository-template)*
 
+## Contributors
+Tyrel Froese (T-Rex)
